@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning how to combine landscape ecology and LiDAR to characterize forest succession post-disturbance in BC
 
-📫 How to reach me: ccarmour@mail.ubc.ca
+📫 How to reach me: ccarmour@student.ubc.ca
 
 <!---
 ccarmour/ccarmour is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
